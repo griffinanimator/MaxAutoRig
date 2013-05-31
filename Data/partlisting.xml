@@ -1,0 +1,33 @@
+<partlisting>
+<part name="data/stats/parts/Arms_Bees.xmlb" />
+<part name="data/stats/parts/arms_chaingun.xmlb" />
+<part name="data/stats/parts/Arms_Claw.xmlb" />
+<part name="data/stats/parts/arms_fishgun.xmlb" />
+<part name="data/stats/parts/Arms_GhostPunch.xmlb" />
+<part name="data/stats/parts/arms_goldenImage.xmlb" />
+<part name="data/stats/parts/arms_mace.xmlb" />
+<part name="data/stats/parts/Arms_SlashBlades.xmlb" />
+<part name="data/stats/parts/Arms_Stakes.xmlb" />
+<part name="data/stats/parts/Arms_Template.xmlb" />
+<part name="data/stats/parts/Head_Blitzwind.xmlb" />
+<part name="data/stats/parts/Head_Breezewing.xmlb" />
+<part name="data/stats/parts/Head_Bubble.xmlb" />
+<part name="data/stats/parts/head_goldenImage.xmlb" />
+<part name="data/stats/parts/head_overload.xmlb" />
+<part name="data/stats/parts/Head_Quake.xmlb" />
+<part name="data/stats/parts/Head_Skeleton.xmlb" />
+<part name="data/stats/parts/Head_Template.xmlb" />
+<part name="data/stats/parts/Head_Tongue.xmlb" />
+<part name="data/stats/parts/Head_Vampire.xmlb" />
+<part name="data/stats/parts/Tail_Boomerang.xmlb" />
+<part name="data/stats/parts/tail_bowlingball.xmlb" />
+<part name="data/stats/parts/Tail_ElectricEel.xmlb" />
+<part name="data/stats/parts/tail_goldenImage.xmlb" />
+<part name="data/stats/parts/Tail_Mist.xmlb" />
+<part name="data/stats/parts/Tail_Snake.xmlb" />
+<part name="data/stats/parts/tail_spiked.xmlb" />
+<part name="data/stats/parts/Tail_Template.xmlb" />
+<part name="data/stats/parts/Tail_Thorns.xmlb" />
+<part name="data/stats/parts/Tail_Tornado.xmlb" />
+</partlisting>
+
